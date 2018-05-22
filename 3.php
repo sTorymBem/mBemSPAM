@@ -2,7 +2,7 @@
 /*
     https://github.com/nee48/bomsmsmthrmall/
     Made by Handika Pratama
-    Modified by まやちゃん
+    Dimodifikasi oleh  sTorymBem
 */
 
 include 'bommthrml.php';

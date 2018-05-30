@@ -66,7 +66,7 @@ Class Bom {
         $data = "phone_number={$no}";
         $send = $this->sendC($url, null, $data);
         if (preg_match('/Kode OTP berhasil dikirim/', $send)) {
-                print ( '  Sukses! ★' );
+                print ( 'mBemSPAM Sukses! ★' );
             } else {
                 print('Gagal Dikirim★');
             }
